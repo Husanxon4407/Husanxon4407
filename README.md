@@ -59,7 +59,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Portfolio Website](https://github.com/Husanxon4407/portfolio-website) | Responsive portfolio — dark mode, multilingual UI, animations | React · Vite · Tailwind |
+| [Portfolio Website](https://github.com/Husanxon4407/portfolio-website) &nbsp;[![Live](https://img.shields.io/badge/Live-Visit_↗-2F81F7?style=flat-square&logo=googlechrome&logoColor=white)](https://husanxon4407.github.io/portfolio-website/) | Responsive portfolio — dark mode, multilingual UI, animations | React · Vite · Tailwind |
 | UzChess | Responsive chess-themed interface built from a Figma design | Next.js · React |
 | [Personal Portfolio](https://github.com/Husanxon4407/personal-portfolio) | Personal site with a hand-built responsive layout | HTML · CSS |
 | [Student Registration Portal](https://github.com/Husanxon4407/student-registration-portal) | Student registration UI and form flow | HTML · CSS |
