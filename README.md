@@ -2,7 +2,7 @@
 
 # <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=38&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Business+Information+Systems+Student;Backend+%7C+Data+Science+%7C+AI+Enthusiast" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husanxon-bahodirxonov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husanxon-bahodirxonov-16256b3a8)
 [![Telegram](https://img.shields.io/badge/Telegram-@bh__s__t-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bh_s_t)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husanxonbahodirxonov@gmail.com)
 [![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-2F81F7?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Husanxon4407/Resume)
