@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=38&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Business+Information+Systems+Student;Backend+%7C+Data+Science+%7C+AI+Enthusiast" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&height=55&lines=Full-Stack+Developer;BIS+Student+%40+WIUT;Backend+%C2%B7+Data+Science+%C2%B7+AI" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husanxon-bahodirxonov-16256b3a8)
 [![Telegram](https://img.shields.io/badge/Telegram-@bh__s__t-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bh_s_t)
